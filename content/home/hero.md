@@ -55,3 +55,6 @@ This course will give students a foundation in statistical analysis principles a
 
 We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice.
 
+
+
+

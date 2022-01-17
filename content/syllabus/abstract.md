@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Syllabus - Fundamental of Biostatistics"
+title = "Fundamental of Biostatistics"
 subtitle = ""
 
 [design]
@@ -47,12 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
-
 This course will give students a foundation in statistical analysis principles and practice, mainly applied to life sciences. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
 
 We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice.
-
-
 
 
 ## Course Objectives
@@ -72,11 +69,6 @@ We will also have weekly hands-on laboratory sessions in which students will hav
 - Building and evaluating regressing model using R
 - Building and evaluating classification model using R
 
-## Benifits and Rewards
-- Solid understanding of basic health research methodology
-- Based on the performance students will be given Research Assistantship(RA) oppurtunities to conduct research with CHIRAL Bangladesh research team in active projects.
-- Recommendations
-- Completion Certificate
 
 ## Who this course is for
 - If you have no research experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
@@ -86,10 +78,11 @@ We will also have weekly hands-on laboratory sessions in which students will hav
 
 ## Required Textbooks
 The following books purchased and are avilable at the online book store. We have also a placed a copy of each on reserve at our online library.
-- [Basic Epidemiology by WHO](#)
-- [Fundamentalsof Biostatistics by Bernard Rosner](#)
-- [Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif](#)
-- [Introduction to R Programming by Dr. Roger D. Peng](#)
+
+- [Fundamentalsof Biostatistics by Bernard Rosner](https://www.amazon.com/Fundamentals-Biostatistics-Rosner-Biostatics/dp/0538733497)
+- [Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif](https://www.scribd.com/document/510667861/Applied-Medical-Statistics-for-Beginners-M-Elsherif-2021)
+- [R Programming Foundations for Life Scientists](https://nbisweden.github.io/Rcourse/HT17Uppsala/)
+- [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
 
 
 ## Course Policies
