@@ -18,7 +18,7 @@ day_night = false
 description = "A full-day workshop on the R Markdown family of packages for the Statistical Society of Australia"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "proteaceae.jpg"
+sharing_image = "share.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "chiralbd"
@@ -59,7 +59,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
 phone = ""
-address = "Manuka Oval, Manuka Circle, Griffith ACT 2603"
+address = " 9-10 Chittaranjan Ave, Dhaka 1100"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday September 30, 09:00am - 04:30pm"""
