@@ -19,9 +19,9 @@ interests:
 name: Jubayer Hossain
 name: Jubayer Hossain
 organizations:
-- name: CHIRAL Bangladesh
-  url: https://www.chiralbd.com/
-role: Founder & Instructor
+- name: Department of Microbiology
+  url: https://jnu.ac.bd/dept/portal/web/microbiology
+role: Teaching Assistant
 social:
 - icon: twitter
   icon_pack: fab
