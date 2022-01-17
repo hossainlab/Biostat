@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Fundamental of Biostatistics"
-
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "share.jpg"
 
@@ -44,16 +43,15 @@ hero_media = "share.jpg"
   icon = "door-open"
   
 [cta_alt]
-  url = "about"
+  url = "syllabus"
   label = "Syllabus"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Website theme by [Desirée De Leon](http://desiree.rbind.io/) | Developed by [Jubayer Hossain]()'
+  label = 'Website theme by [Desirée De Leon](http://desiree.rbind.io/) | Developed by [Jubayer Hossain](jhossain.com)'
 +++
 
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. 
-- Literature Searching Process 
-- Research Data Management(RDM)
-- Systematic Reviews
-- Meta Analysis
+This course will give students a foundation in statistical analysis principles and practice, mainly applied to life sciences. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
+
+We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice.
+

@@ -124,7 +124,6 @@ thead, tfoot, tr:nth-child(even) { background: #eee }
 }
 
 .title-slide {
-  background-image: url(../../images/protea-banner.png);
   background-position: top;
   background-size: contain;
   background-color: #e7553c;

@@ -16,7 +16,7 @@ interests:
 - Diabetes
 - Bioinformatics
 - Systematic Review 
-name: Esrat Jahan
+name: Dr. John Doe
 organizations:
 - name: CHIRAL Bangladesh
   url: "https://chiralbd.org/"

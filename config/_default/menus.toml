@@ -4,29 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "About"
-  url = "about"
+  name = "Syllabus"
+  url = "syllabus"
   weight = 10
-  identifier = "about"
-  
-[[main]]
-  name = "Details"
-  url = "about#conf"
-  weight = 10
-  parent = "about"
 
-[[main]]
-  name = "Is this workshop for me?"
-  url = "about#three-questions"
-  weight = 20
-  parent = "about"
-  
-[[main]]
-  name = "Overview"
-  url = "about#abstract"
-  weight = 30
-  parent = "about"
-  
+
 [[main]]
   name = "Schedule"
   url = "schedule"
