@@ -51,7 +51,7 @@ hero_media = "share.jpg"
   label = 'Website theme by [Desirée De Leon](http://desiree.rbind.io/) | Developed by [Jubayer Hossain](jhossain.com)'
 +++
 
-This course will give students a foundation in statistical analysis principles and practice, mainly applied to life sciences. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
+This course will provide students a foundation in statistical analysis principles and practice, mainly applied to life sciences. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
 
 We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice.
 
