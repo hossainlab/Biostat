@@ -21,7 +21,7 @@ a, a > code {
 /* unvisited link */
 a:link {
     color: #E7553C;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /* visited link */
@@ -134,7 +134,7 @@ thead, tfoot, tr:nth-child(even) { background: #eee }
   font-family: 'Josefin Slab', serif;
   color: #FFFFFF;
   font-size: 3em;
-  padding-top: 2em;
+  padding-top: 0em;
   line-height: 1em;
   padding-bottom: .1em;
   word-wrap: break-word;

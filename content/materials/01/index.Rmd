@@ -2,8 +2,8 @@
 title: 'Lecture 01: Basic Statistical Concepts'
 draft: false
 event: 'Fundamentals of Biostatistics'
-event_url: https://biostatsmib.jhossain.com/
-location: Bangladesh
+event_url: https://biostatswithr.netlify.app/
+location: Department of Microbiology, Jagannath University, Dhaka, Bangladesh
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -16,7 +16,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: /slides/templates.html
+  url: /slides/Lecture-01.html
 
 lastmod: '2019-06-16T02:20:01-07:00'
 projects: []
@@ -24,5 +24,5 @@ weight: 2
 ---
 
 ```{r echo=FALSE}
-knitr::include_url("/slides/templates.html")
+knitr::include_url("/slides/Lecture-01.html")
 ```
