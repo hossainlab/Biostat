@@ -55,15 +55,21 @@ We welcome messages from participants regarding class policies, assignments and 
 
 We have a small but strict set of rules on our server. Please read over them and take them on board. If you don't understand a rule or need to report an incident, please send a direct message to management team.
 - **Rule 1:** Respect management team members and listen to their instructions.
+
 - **Rule 2:** Use English to the best of your ability. Be polite if someone speaks or writes English imperfectly.
+
 - **Rule 3:** Do not provide or request help on projects that may break laws, breach terms of services, or are malicious or inappropriate.
 - **Rule 4:** Do not post unapproved advertising.
+
 - **Rule 5:** Keep discussions relevant to the channel topic. Each channel's description tells you the topic.
 
 You have to follow these nickname policies to keep safe and clean environment for the members.
 - **Rule 1:** No blank or "invisible" names
+
 - **Rule 2:** No slurs or other offensive sentiments
+
 - **Rule 3:** No noisy unicode characters - for example, z̯̯͡a̧͎̺l̡͓̫g̹̲o̡̼̘ or byte order marks
+
 - **Rule 4:** No nicknames designed to annoy other users
 
 
